@@ -6,6 +6,15 @@
 
 ###
 
+<div align="center">
+  <a href="https://github.com/kayrsant" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayrsant&layout=compact&theme=midnight-purple" alt="Spoiler do perfil de kayrsant"/>
+  </a>
+  <a href="https://github.com/kayrsant" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrsant&layout=compact&theme=midnight-purple" alt="Spoiler das linguagens usadas por kayrsant"/>
+  </a>
+</div>
+
 <h2 align="left">About me</h2>
 
 ###
@@ -19,8 +28,7 @@
 ###
 
 <br clear="both">
-
-<div align="left">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -28,9 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
-</div>
-
-###
+  </div>
+  
+  <br clear="both">
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/0cLJj5S.gif"  />
@@ -48,13 +56,13 @@
   <a href="https://www.linkedin.com/in/kaylanr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://dsc.bio/kayrsant" target="_blank">
+  <a href="seduzenti#8157" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/kayrsant/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:kayrsant@gmail.com" target="_blank">
+  <a href="kayrsant@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
