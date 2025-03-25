@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Kaylan, and I am an enthusiast of the programming community. I am 20 years old and live in Rio Grande do Sul, Brazil. I am currently majoring in Internet Systems by the Federal University of Santa Maria.</h4>
+<h4 align="left">My name is Kaylan, and I am an enthusiast of the programming community. I am 23 years old and live in Rio Grande do Sul, Brazil. I am currently majoring in Internet Systems by the Federal University of Santa Maria.</h4>
 
 ###
 
